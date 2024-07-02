@@ -1,0 +1,43 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(48, 90, 97);
+   
+}
+
+.container {
+    width: calc(100% - 120px);
+    margin: auto;
+   
+}
+ 
+
+div {
+    padding: 20px;
+}
+
+.count {
+    border: 1px solid white;
+    border-radius: 50%;
+    color: #d1831e;
+    width :100px;
+    padding: 15px;
+    text-align: center;
+    margin: 10px;
+    display: inline;
+   
+}
+
+.recipe h2 {
+    padding: 30px;
+}
+
+
+.recipe {
+    color: antiquewhite;
+    text-align: center;
+}
